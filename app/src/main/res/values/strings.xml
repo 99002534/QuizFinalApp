@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="your_score">Your Score</string>
+    <string name="nisarga_h_s">Nisarga H S</string>
+    <string name="nisarga_gmail_com">nisarga0389@gmail.com</string>
+    <string name="ganavi_raj">Ganavi Raj</string>
+    <string name="ganavi_gmail_com">ganavi18@gmail.com</string>
+    <string name="binitta_michael">Binitta Michael</string>
+    <string name="binitta_gmail_com">binitta@gmail.com</string>
+    <string name="start_timer">Start Timer</string>
+    <string name="quizapp">QuizApp</string>
+</resources>
