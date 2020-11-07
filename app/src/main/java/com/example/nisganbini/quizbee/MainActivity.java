@@ -95,8 +95,14 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
-
-
+        aboutbutton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Log.v(TAG,"About Button clicked");
+                Intent intent=new Intent(getApplicationContext(),DeveloperActivity.class);
+                startActivity(intent);
+                Log.w(TAG,"Going to developer page");
+            }
+        });
     }
 }
