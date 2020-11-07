@@ -31,7 +31,7 @@ import androidx.appcompat.app.AppCompatActivity;
          registerbutton.setOnClickListener(new View.OnClickListener() {
              @Override
              public void onClick(View view) {
-                 Log.v(TAG,"Registration Button clicked");
+                 Log.v(TAG,"Registration Button clicked to register");
                  String user=nametext.getText().toString();
                  String email=emailtext.getText().toString();
                  if(user.equals("")||email.equals(""))
